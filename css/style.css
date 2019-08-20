@@ -1,0 +1,263 @@
+body{
+	
+	background:white;
+	
+}
+.container_16{
+	background: white;
+	margin-top: 20px;
+}
+
+.wrap{
+	
+  position: fixed;
+  top: 0;
+  width:100%;
+   color: white;
+   margin-top:-5px;;
+	}
+
+#author{
+	font-size: 15px;
+	float:right;
+	color:white;
+	margin-right: 200px;
+	text-shadow: 5px 5px 5px black;
+}
+
+
+nav li{
+	display: inline;
+}
+
+.headd2
+{
+	padding-top: 120px;
+	padding-left: 80px;
+	padding-right:80px;
+	padding-bottom: 200px;
+	font-size: 40px;
+	font-family: 'Merienda One', cursive;
+	letter-spacing: 0px;
+	color: #ADFF2F;;
+	text-shadow: 5px 5px 5px black;
+	text-align: center;
+}
+	
+#headd{
+	display: inline;
+	float: left;
+	margin: -5px;
+	font-size: 20px;
+	font-family: 'Merienda One', cursive;
+	letter-spacing: -2px;
+	color: black;
+	text-transform: lowercase;
+	text-shadow: 1px 1px 1px green;
+	color: white
+}
+
+
+.meta li a:hover{
+	text-decoration: underline;
+}
+
+.meta{
+	text-align: right;
+	margin: auto;
+	background: black;
+	padding: 20px;
+	opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+
+.meta a{
+	font-style: italic;
+	font-size: 14px;
+	color: white;
+
+}
+
+.meta1 li a{
+	font-style: italic;
+	font-size: 14px;
+	color: white;
+	text-decoration: none;
+	padding-right: 10px;
+}
+
+.meta li a{
+	display: inline;
+	padding-right: 0;
+	text-decoration: none;
+	text-align: right;
+}
+
+.wrap1{
+	background-image: url("../img/green2.jpg");
+	background-color: #cccccc;
+	height: 400px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 1300px;
+	margin-bottom: 50px;
+	
+
+	
+}
+
+.wrap2{
+	padding-left: 400px;
+}
+
+.meta1{
+	text-align: right;
+
+}
+
+#mot{
+	height: 150px;
+	width: 150px;
+	min-width: 75%;
+	padding-left: 25px;
+	margin-bottom: 25px;
+
+}
+
+.grid4 img{
+	min-width: 100%;
+	margin-bottom: 25px;
+}
+
+.foot
+{
+	overflow: hidden;
+	padding-top: 10px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+ background-color: #006400;
+   color: white;
+
+}
+.foot nav ul
+{
+	float:right;
+	display: inline;
+  
+}
+.foot nav ul li a{
+  color:white;
+}
+
+aside{
+	float:right;
+	display: flex;
+	flex-direction: column;
+
+}
+
+
+aside ul{
+	
+	list-style: none;
+	padding-left: 0;
+	padding-bottom: 10px;
+}
+
+.flex1{
+	height:600px;
+	margin:auto;
+}
+
+.flex2{
+	height:600px;
+	margin:auto;
+	
+}
+
+
+
+#motto{
+	font-style: bold;
+	font-size: 25px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.image{
+	height: 250px;
+	width: 400px;
+	min-width: 100%;
+	margin-bottom: 25px;
+}
+
+.sub{
+	font-size: 30px;
+}
+
+.navi{
+	float: right;
+	display: inline;
+	background: black;
+	color: white;
+}
+
+.add{
+	float:left;
+	text-decoration: none;
+	list-style-type: none;
+	display: inline;
+	left:0;
+	text-align: left;
+	
+	
+
+}
+
+.add li{
+	display: inline;
+}
+
+.add li a{
+	overflow: hidden;
+	color:white;
+	text-decoration: none;
+	display: inline;
+}
+
+.add img{
+	height:35px;
+	width: 35px;
+	padding-right:5px;
+	margin-left:0px;
+}
+
+.social img{
+	height:30px;
+	width: 30px;
+	padding-right:5px;
+	margin-left:0px;
+}
+
+#company{
+	text-align:center;
+}
+
+.article ul li{
+	margin:0;
+}
+
+.article ul li a{
+	margin:0;
+	text-decoration: none;
+}
+
+.article ul li a:hover{
+	text-decoration: underline;
+	color: #006400
+}
+
+
+

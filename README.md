@@ -1,2 +1,3 @@
-# assignment1
-Assignment1 (CSS)
+# Assignment
+
+CSS assignment
